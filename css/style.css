@@ -1,0 +1,144 @@
+div{
+
+}
+
+body {
+	background-color:#EDEDED;
+}
+
+#fix{
+
+}
+
+#logo{
+	border-radius: 5px;
+	border: 2px solid #999999;
+    background: #FFFFFF;
+    padding: 20px; 
+
+ 	background-image: url("../img/logo.png");
+	background-repeat: no-repeat;
+	background-position:10px;
+	background-size: 250px 100%;
+	height:150px;
+
+	margin-bottom: 10px;
+
+}
+
+
+#menu{
+
+    border-radius: 25px;
+    border: 2px solid #111111;
+    padding: 20px; 
+    width: 200px;
+ 
+}
+
+#main{
+	border-radius: 25px;
+    background: #FFFFFF;
+    padding: 20px; 
+}
+
+#center{
+
+}
+
+
+#prijava{
+	float:right;
+}
+
+#isci_uporabnika{
+	float:left;
+}
+
+#times{
+	max-height: 180px;
+	overflow-x: hidden;
+	overflow-y:scroll;
+	border-radius: 25px;
+    border: 2px solid #111111;
+    padding: 20px; 
+    width: 100px;
+    height: 370px;
+}
+
+#timer{
+
+}
+
+#profile_image{
+	max-width: 400px;
+
+
+}
+
+#user_data{
+	font-weight: bold;	
+}
+
+#user_table{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+#time{
+	font-weight: bold;
+	font-size: 36px;
+	margin-left:45%;
+	margin-top:20%;
+	margin-bottom:15%;
+
+}
+
+#scramble{
+	margin-bottom:20px;	
+}
+
+
+#disciplines{
+	margin-right: 25px;
+}
+
+.discipline{
+	border-radius: 25px;
+    background: #8AC007;
+    padding: 20px; 
+    height: 150px; 
+
+    font-size: 150%;
+
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:10px;
+	margin-bottom:10px;
+
+}
+
+.discipline_picture{
+	margin-left:10px;
+	margin-right:10px;
+
+}
+
+#footer{
+
+}
+
+#nextPage{
+	margin-top: 20px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    font-size: 150%;
+ 	text-decoration: underline;
+}
+
+
+#chart_div{
+	width:100%;
+	height:400px;
+}
